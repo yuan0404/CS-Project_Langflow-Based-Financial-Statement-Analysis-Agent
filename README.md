@@ -1,6 +1,6 @@
 # Langflow-Based Financial Statement Analysis Agent
 
-<img src="png/9-1.png" alt="流程圖" width="800">
+<img src="png/9-1.png" alt="流程圖" width="600">
 
 **學校：** 國立陽明交通大學 資訊工程學系  
 **課程：** 資訊工程專題（一）  
