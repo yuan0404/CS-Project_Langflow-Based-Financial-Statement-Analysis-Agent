@@ -1,5 +1,4 @@
-# Financial Statement Analysis Agent
-用 langflow 做一個財報分析的聊天機器人，可以根據用戶的問題提取財務數據，以進行深入的財務報表分析。
+# Langflow-Based Financial Statement Analysis Agent
 
 ## 2024/10/08
 
